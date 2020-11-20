@@ -6,6 +6,8 @@
 | git add -A | 將所有檔案加入到追蹤，並且在集結狀態 |
 | git commit -m "msg" | 紀錄修改的資訊，並將檔案儲存至站存區 |
 
+![](https://github.com/Roy-176/git/blob/main/img/git.png)
+
 ## git add
 | syntax  | describe |
 | ------- | ------------ |
@@ -37,6 +39,10 @@
 | syntax  | describe |
 | ------- | ------------ |
 | git branch | 顯示目前git專案所有的分支和目前所在位置的分支 |
+
+![](https://github.com/Roy-176/git/blob/main/img/gitbranch.png)
+
+![](https://github.com/Roy-176/git/blob/main/img/gitbranch2.png)
 
 ## git checkout
 | syntax  | describe |
